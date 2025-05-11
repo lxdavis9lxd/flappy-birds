@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="500dp"
+    android:height="100dp"
+    android:viewportWidth="500"
+    android:viewportHeight="100">
+    
+    <!-- Main ground -->
+    <path
+        android:fillColor="#F4A460"
+        android:pathData="M0,0 L500,0 L500,100 L0,100 Z" />
+    
+    <!-- Grass tufts on top -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M0,0 L500,0 L500,10 L0,10 Z" />
+    
+    <!-- Dirt patterns -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M20,20 L40,20 L40,30 L20,30 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M100,40 L120,40 L120,50 L100,50 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M200,30 L220,30 L220,40 L200,40 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M300,50 L320,50 L320,60 L300,60 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M400,25 L420,25 L420,35 L400,35 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M50,70 L70,70 L70,80 L50,80 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M150,60 L170,60 L170,70 L150,70 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M250,80 L270,80 L270,90 L250,90 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M350,70 L370,70 L370,80 L350,80 Z" />
+    
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M450,50 L470,50 L470,60 L450,60 Z" />
+</vector>

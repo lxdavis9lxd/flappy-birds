@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1000dp"
+    android:height="1000dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="1000">
+    
+    <!-- Sky gradient -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M0,0 L1000,0 L1000,1000 L0,1000 Z" />
+    
+    <!-- Clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,150 C150,100 200,120 250,150 C300,120 350,100 400,150 C450,200 350,200 300,180 C250,200 150,200 100,150" />
+    
+    <path
+        android:fillColor="#F0F0F0"
+        android:pathData="M500,200 C550,150 600,170 650,200 C700,170 750,150 800,200 C850,250 750,250 700,230 C650,250 550,250 500,200" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M200,300 C250,250 300,270 350,300 C400,270 450,250 500,300 C550,350 450,350 400,330 C350,350 250,350 200,300" />
+    
+    <!-- Distant hills -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M0,800 Q250,650 500,800 Q750,650 1000,800 L1000,1000 L0,1000 Z" />
+</vector>

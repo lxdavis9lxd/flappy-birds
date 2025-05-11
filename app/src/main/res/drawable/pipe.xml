@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="500dp"
+    android:viewportWidth="80"
+    android:viewportHeight="500">
+    
+    <!-- Main Pipe Body -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,0 L0,500 L80,500 L80,0 Z" />
+    
+    <!-- Pipe Border -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M0,0 L0,500 L5,500 L5,0 Z" />
+    
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M75,0 L75,500 L80,500 L80,0 Z" />
+    
+    <!-- Pipe Highlight -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M10,0 L10,500 L15,500 L15,0 Z" />
+    
+    <!-- Pipe Cap -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M-10,0 L-10,30 L90,30 L90,0 Z" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M-5,0 L-5,25 L85,25 L85,0 Z" />
+    
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M-10,470 L-10,500 L90,500 L90,470 Z" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M-5,475 L-5,500 L85,500 L85,475 Z" />
+</vector>

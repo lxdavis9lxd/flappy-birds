@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sound description files for documentation purposes.
+         Normally you would add actual .mp3 or .wav files to the raw folder -->
+    <string name="flap_sound_desc">Sound effect for bird flapping wings</string>
+    <string name="point_sound_desc">Sound effect for scoring a point</string>
+    <string name="hit_sound_desc">Sound effect for collision</string>
+</resources>
